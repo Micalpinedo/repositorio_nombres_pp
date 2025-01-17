@@ -21,6 +21,8 @@ public class SueldoEmpleado {
      d=sb*0.13;
      sn=sb-d;
      //Salida de datos
+     System.out.println("Modificacion de  la pregunta 5");
+     System.out.println("Evidencia 16/01/2025");
      System.out.println("Sueldo Bruto:"+sb);
      System.out.println("Descuento:"+d);
      System.out.println("Sueldo Neto:"+sn);
